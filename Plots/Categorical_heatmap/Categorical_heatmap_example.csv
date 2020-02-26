@@ -1,0 +1,8 @@
+Gene_2;Gene_1;Gene_4;Gene_7;Gene_6;Gene_3;Gene_5;Gene_9;Gene_8;Gene_10;Sample
+1;0;1;0;1;0;1;0;1;1;Patient_1
+1;0;1;0;1;0;1;0;1;1;Patient_2
+0;1;0;1;1;1;1;1;1;0;Patient_3
+0;1;0;1;1;0;1;1;0;0;Patient_4
+1;0;0;1;0;0;1;1;1;1;Patient_5
+1;0;1;0;0;1;1;0;1;1;Patient_6
+0;1;1;0;1;1;0;0;0;0;Patient_7
